@@ -1,10 +1,3 @@
-/**
- * Program Name: 	CustomerTester.java
- * Purpose:  		Demonstrates the functionality of the Customer, RetailCustomer, BusinessCustomer, and PreferredCustomer classes by instantiating objects,
- * 				utilizing polymorphism, constructors and accessors and mutators.
- * @author 			Omar Alkhamissi
- * Date: 			Feb 25,  2024
- */
 public class CustomerTester {
     public static void main(String[] args) {
     	

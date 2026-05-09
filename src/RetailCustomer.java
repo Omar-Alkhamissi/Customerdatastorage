@@ -1,9 +1,3 @@
-/**
- * Purpose:  Represents a retail customers with additional attributes.
- * @author:  Omar Alkhamissi
- * Date:	 Feb 25, 2024
- */
-
 public class RetailCustomer extends Customer {
     private double totalPurchases;
 

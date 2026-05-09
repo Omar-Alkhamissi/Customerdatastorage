@@ -1,9 +1,3 @@
-/**
- * Purpose:  Abstract class representing a customer with basic information and methods.
- * @author:  Omar Alkhamissi
- * Date:	 Feb 25, 2024
- */
-
 import java.util.Random;
 
 public abstract class Customer {

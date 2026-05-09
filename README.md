@@ -6,7 +6,7 @@ CustomerDataStorage is a Java model project for customer profiles and incentive 
 
 - Base `Customer` model with retail, business, and preferred customer subclasses
 - Incentive calculations by customer type
-- Tester program that exercises constructors, accessors, mutators, and polymorphic output
+- Tester program that demonstrates constructors, accessors, mutators, and polymorphic output
 
 ## Tech Stack
 

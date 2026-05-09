@@ -1,9 +1,3 @@
-/**
- * Purpose:  Represents a preferred customers with additional attributes such as cashback rate.
- * @author:  Omar Alkhamissi
- * Date:	 Feb 25, 2024
- */
-
 public class PreferredCustomer extends RetailCustomer {
     private int cashbackRate;
 

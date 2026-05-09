@@ -1,9 +1,3 @@
-/**
- * Purpose:  Represents a business customers with additional attributes.
- * @author:  Omar Alkhamissi
- * Date:	 Feb 25, 2024
- */
-
 public class BusinessCustomer extends Customer {
     private String companyName;
     private int discountRate;
